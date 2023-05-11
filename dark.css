@@ -1,0 +1,27 @@
+body {
+    font-family: 'Inter', sans-serif;
+    background-color: black;
+    color: gold;
+    margin: 0;
+    padding: 10px 15px;
+    width: auto;
+    border: 10px;
+}
+
+button{
+    background-color: gold;
+    color: black;
+    font-family: 'Golos Text', sans-serif;
+    border-radius: 25px;
+    font-size: 20px;
+    padding: 1px 20px;
+    transition-duration: 0.4s;
+    text-align: center;
+    cursor: pointer;
+  }
+  
+  button:hover{
+    background-color: goldenrod;
+    border: 2px solid goldenrod;
+    transition-duration: 0.4s;
+  }
